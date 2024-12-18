@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **INFO_21240003_CRITERIOS_SOSTENIBILIDAD**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/INFO_21240003_CRITERIOS_SOSTENIBILIDAD/](https://ecored-sena.github.io/INFO_21240003_CRITERIOS_SOSTENIBILIDAD/)
 
 #
